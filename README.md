@@ -9,3 +9,6 @@ master
         ├ featureB
         ・・・<br>
 </pre>
+
+# Requirement
+* dearpygui
