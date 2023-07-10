@@ -25,5 +25,11 @@ pipeline {
                 echo "Running Code Analysis"
             }
         }
+
+        stage('Test Stage') {
+            steps {
+                echo "Running Test Stage"
+            }
+        }
     }
 }
